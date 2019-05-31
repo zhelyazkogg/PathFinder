@@ -1,4 +1,4 @@
-• NodePath project
+NodePath project:
 You have a Graphical user interface in which you open and insert a txt file with:
 
 - room numbers;
