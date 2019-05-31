@@ -26,3 +26,7 @@ You have 3 buttons bellow:
   - fourth button is the 'insert file' button where you choose the file you want the program to read;
   
   After you choose an option the path will start printing below and will show you if it has a PATH or NOT.
+
+walk = walking;
+climb = stairs;
+lift = elevator;
