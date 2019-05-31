@@ -1,17 +1,18 @@
 NodePath project:
 You have a Graphical user interface in which you open and insert a txt file with:
-• room numbers;
-• coordinate X;
-• coordinate Y;
-• floor;
-• type room - transit/room;
+
+- room numbers;
+- coordinate X;
+- coordinate Y;
+- floor;
+- type room - transit/room;
 for instance - " 432, 10, 22, 4, room; "
 -----------------------------
-• from room;
-• to room;
-• type transition;
-• cost for every step;
-• if its BiDirectional - true/false or yes/no;
+- from room;
+- to room;
+- type transition;
+- cost for every step;
+- if its BiDirectional - true/false or yes/no;
 for instance - " 400, 432, walk, 2, yes; "
              - " 400, 432, climb, 2, yes; "
              - " 400, 432, lift, 2, yes; "
