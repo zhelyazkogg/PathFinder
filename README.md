@@ -1,4 +1,4 @@
-NodePath project:
+• NodePath project
 You have a Graphical user interface in which you open and insert a txt file with:
 
 - room numbers;
@@ -27,6 +27,6 @@ You have 3 buttons bellow:
   
   After you choose an option the path will start printing below and will show you if it has a PATH or NOT.
 
-walk = walking;
-climb = stairs;
-lift = elevator;
+- walk = walking;
+- climb = stairs;
+- lift = elevator;
