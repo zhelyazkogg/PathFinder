@@ -13,10 +13,10 @@ for instance - " 432, 10, 22, 4, room; "
 - type transition;
 - cost for every step;
 - if its BiDirectional - true/false or yes/no;
-for instance:
-- " 400, 432, walk, 2, yes; "
-- " 400, 432, climb, 2, yes; "
-- " 400, 432, lift, 2, yes; "
+
+for instance - " 400, 432, walk, 2, yes; "
+             - " 400, 432, climb, 2, yes; "
+             - " 400, 432, lift, 2, yes; "
 
 In this user interface you have two text fields in which you type from which room to wihch you want to go;
 You have 3 buttons bellow:
