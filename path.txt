@@ -1,0 +1,13 @@
+401, 6, 8, 4, room;
+403, 5, 2, 4, room;
+400, 2, 22, 4, transit;
+500, 2, 22, 5, transit;
+527, 10, 10, 5, room;
+528, 10, 15, 5, room;
+500, 400, climb, 3, yes;
+500, 400, climb, 5, yes;
+500, 527, walk, 1, yes;
+500, 528, walk, 4, yes;
+527, 528, walk, 5, yes;
+400, 401, walk, 6, yes;
+403, 401, walk, 1, yes;
